@@ -1,0 +1,68 @@
+{
+    "students": {
+        "Bernardus": {
+            "Name": "Bernardus",
+            "Age": 15,
+            "Grades": {
+                "grades": {
+                    "Science": 100,
+                    "English": 100
+                }
+            },
+            "Attendance": 20,
+            "Average": true,
+            "Excellent": true,
+            "Exreacurricular Point": 20,
+            "Average Grade": 100.0,
+            "Subjects Total": 2
+        },
+        "Stanislaus": {
+            "Name": "Stanislaus",
+            "Age": 15,
+            "Grades": {
+                "grades": {
+                    "Science": 90,
+                    "English": 90
+                }
+            },
+            "Attendance": 19,
+            "Average": true,
+            "Excellent": true,
+            "Exreacurricular Point": 19,
+            "Average Grade": 90.0,
+            "Subjects Total": 2
+        },
+        "Anastasia": {
+            "Name": "Anastasia",
+            "Age": 15,
+            "Grades": {
+                "grades": {
+                    "English": 85,
+                    "Science": 90
+                }
+            },
+            "Attendance": 18,
+            "Average": true,
+            "Excellent": false,
+            "Exreacurricular Point": 18,
+            "Average Grade": 87.5,
+            "Subjects Total": 2
+        },
+        "Christian": {
+            "Name": "Christian",
+            "Age": 15,
+            "Grades": {
+                "grades": {
+                    "Science": 4,
+                    "English": 96
+                }
+            },
+            "Attendance": 17,
+            "Average": false,
+            "Excellent": false,
+            "Exreacurricular Point": 10,
+            "Average Grade": 50.0,
+            "Subjects Total": 2
+        }
+    }
+}
